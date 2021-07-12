@@ -21,3 +21,6 @@ body{
     /* padding: 10px; */
     
 }
+#box-2{
+    flex-grow: 1;
+}
